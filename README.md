@@ -1,1 +1,1 @@
-The repoisitory contains clonr project of Apni Kaksha website.
+The repoisitory contains clone of Apni Kaksha website.
